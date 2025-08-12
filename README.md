@@ -38,10 +38,5 @@ python src/testing_dataset.py
 
 > If you see unresolved imports in your IDE, ensure it uses the same interpreter that installed the packages.
 
-## Notes
-- Do **not** commit `venv/` or IDE folders (`.idea/`, `.vscode/`).
-- Large files (>100MB) should be tracked with Git LFS.
-- You may replace the CSVs with your own; keep column names consistent with the scripts.
-
 ## License
 Educational use only.
